@@ -1,0 +1,1 @@
+Aquí se deberan cargar unicamente las interfaces gráficas, todo se trabajará con extension php
